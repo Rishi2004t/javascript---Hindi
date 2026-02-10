@@ -14,3 +14,12 @@ because of issue in block scope and functional scope
 let accountState
 console.log(accountId)
 console.table([accountEmail,accountId,accountPassword,accountCity,accountState])
+
+
+// Lecture 5 Start
+
+"Use strict";  // treat all js code as newer version
+// aler(3 + 3) we are using node js not browser console
+console.log(3 + 3)
+//  code hamesha readability hona chahiye
+console.log("mamaji")
